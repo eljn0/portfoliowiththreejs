@@ -1,4 +1,6 @@
-#<p align="center"> Threejs Portfolio Website </P>
+# <p align="center"> Threejs Portfolio Website👨‍💻 </P>
+ First project with three js.
+ 
 ## Usage
 
 ```
